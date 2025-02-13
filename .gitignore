@@ -1,0 +1,5 @@
+# Ignore contents of files directory
+files/*
+
+# Ignore WebStorm specific files
+.idea/*
